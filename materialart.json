@@ -1,49 +1,121 @@
-[
-	{
-		"name": "wallpaper1",
-		"author": "abdarker",
-		"url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/21107653_116309602434333_1354513615780052992_n.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/21107653_116309602434333_1354513615780052992_n.jpg",
-		"collections": "GRADIENT|ABSTRACT",
-		"downloadable": true,
-		"size": 345066,
-		"dimensions": "1280 x 720 px",
-		"copyright": "abdarker"
-	},
-	{
-		"name": "wallpaper2",
-		"author": "abdarker",
-		"url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/21107653_116309602434333_1354513615780052992_n.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/21107653_116309602434333_1354513615780052992_n.jpg",
-		"collections": "Landscapes,Art,Material Design,Pixiv",
-		"downloadable": true,
-		"copyright": "abdarker"
-	},
-  {
-		"name": "wallpaper3",
-		"author": "abdarker",
-		"url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/873672.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/873672.jpg",
-		"collections": "Landscapes,Art,Material Design, Pixiv",
-		"downloadable": true,
-		"copyright": "abdarker"
-	}
+{
+  "Collections": [
     {
-		"name": "wallpaper4",
-		"author": "abdarker",
-		"url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/Gxgo3RT.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/Gxgo3RT.jpg",
-		"collections": "Landscapes,Art,Material Design, Pixiv",
-		"downloadable": true,
-		"copyright": "abdarker"
-	}
+      "name": "catagory1",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+    },
     {
-		"name": "wallpaper5",
-		"author": "abdarker",
-		"url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/SJnoGO5.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/SJnoGO5.jpg",
-		"collections": "Landscapes,Art,Material Design, Pixiv",
-		"downloadable": true,
-		"copyright": "abdarker"
-	}
-]
+      "name": "catagory2",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+    },
+    {
+      "name": "catagory3",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+    },
+    {
+      "name": "catagory4",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
+    }
+  ],
+  "Wallpapers": [
+    {
+      "name": "ShotA",
+      "author": "abdarker",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/873672.jpg",
+      "collections": "catagory1,catagory4,catagory3",
+      "downloadable": true
+    },
+    {
+      "name": "ShotB",
+      "author": "Someone",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/873672.jpg",
+      "dimensions": "3200x2560",
+      "collections": "catagory1,catagory2,catagory3",
+      "downloadable": true
+    },
+    {
+      "author": "Someone",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/873672.jpg",
+      "name": "ShotC",
+      "dimensions": "1280x720",
+      "copyright": "Credits to its creator",
+      "collections": "catagory1,catagory4,catagory3"
+    },
+    {
+      "name": "Wallsplash 1",
+      "author": "wallsplash",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/kJDHatf.png",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
+      "dimensions": "3200x2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "catagory1,catagory4,catagory3"
+    },
+    {
+      "name": "Wallsplash 2",
+      "author": "wallsplash",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
+      "dimensions": "3200x2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "catagory1,catagory4,catagory3, catagory2"
+    },
+    {
+      "name": "Wallsplash 3",
+      "author": "wallsplash",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/kJDHatf.png",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/kJDHatf.png",
+      "dimensions": "3200x2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "catagory1,catagory4,catagory3, catagory2"
+    },
+    {
+      "name": "Wallsplash 4",
+      "author": "wallsplash",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
+      "dimensions": "3200x2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "catagory1,catagory4,catagory3, catagory2y"
+    },
+    {
+      "name": "Wallsplash 5",
+      "author": "wallsplash",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
+      "dimensions": "3200x2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "catagory1,catagory4,catagory3, catagory2"
+    },
+    {
+      "name": "Wallsplash 6",
+      "author": "wallsplash",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/P0QuM4B.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/P0QuM4B.jpg",
+      "dimensions": "3200x2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "catagory1,catagory4,catagory3, catagory2"
+    },
+    {
+      "name": "Wallsplash 7",
+      "author": "wallsplash",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_g.png",
+      "dimensions": "3200x2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "catagory1,catagory4,catagory3, catagory2"
+    },
+    {
+      "name": "Wallsplash 8",
+      "author": "wallsplash",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
+      "dimensions": "3200x2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "catagory1,catagory4,catagory3, catagory2"
+    }
+  ]
+}
