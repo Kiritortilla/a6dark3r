@@ -1,0 +1,49 @@
+[
+	{
+		"name": "wallpaper1",
+		"author": "abdarker",
+		"url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/21107653_116309602434333_1354513615780052992_n.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/21107653_116309602434333_1354513615780052992_n.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1280 x 720 px",
+		"copyright": "abdarker"
+	},
+	{
+		"name": "wallpaper2",
+		"author": "abdarker",
+		"url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/21107653_116309602434333_1354513615780052992_n.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/21107653_116309602434333_1354513615780052992_n.jpg",
+		"collections": "Landscapes,Art,Material Design,Pixiv",
+		"downloadable": true,
+		"copyright": "abdarker"
+	},
+  {
+		"name": "wallpaper3",
+		"author": "abdarker",
+		"url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/873672.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/873672.jpg",
+		"collections": "Landscapes,Art,Material Design, Pixiv",
+		"downloadable": true,
+		"copyright": "abdarker"
+	}
+    {
+		"name": "wallpaper4",
+		"author": "abdarker",
+		"url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/Gxgo3RT.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/Gxgo3RT.jpg",
+		"collections": "Landscapes,Art,Material Design, Pixiv",
+		"downloadable": true,
+		"copyright": "abdarker"
+	}
+    {
+		"name": "wallpaper5",
+		"author": "abdarker",
+		"url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/SJnoGO5.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/SJnoGO5.jpg",
+		"collections": "Landscapes,Art,Material Design, Pixiv",
+		"downloadable": true,
+		"copyright": "abdarker"
+	}
+]
