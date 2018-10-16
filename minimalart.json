@@ -1,45 +1,83 @@
+// FROM HERE CATAGORY
+
+
+
+
 {
   "Collections": [
-    {
-      "name": "catagory1",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
-    },
-    {
-      "name": "catagory2",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
-    },
-    {
-      "name": "catagory3",
+      {
+      "name": "Featured",
       "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
     },
     {
-      "name": "catagory4",
+      "name": "Ab's Choice",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+    },
+    {
+      "name": "Minimalistic",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+    },
+    {
+      "name": "Abstruct",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+    },
+    {
+      "name": "Anime",
       "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
-    }
+    },
+
+      {
+      "name": "Pixiv",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+    },
+      {
+      "name": "Material",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+    },
+      {
+      "name": "Fairy Tail",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+    },
   ],
+
+
+
+  // FROM HERE WALLPAPER
+
+
+
+
   "Wallpapers": [
     {
-      "name": "ShotA",
+      "name": "choice 1",
       "author": "abdarker",
-      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/873672.jpg",
-      "collections": "catagory1,catagory4,catagory3",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/29.png",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/thumb/29%20(Custom).png",
+      "dimensions": "1920x1080",
+      "collections": "Ab's Choice",
       "downloadable": true
     },
     {
-      "name": "ShotB",
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/873672.jpg",
-      "dimensions": "3200x2560",
-      "collections": "catagory1,catagory2,catagory3",
+      "name": "choice 2",
+      "author": "abdarker",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/8.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/thumb/8%20(Custom).jpg",
+      "dimensions": "1273x1800",
+      "collections": "Ab's Choice",
       "downloadable": true
     },
     {
       "author": "Someone",
       "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/wall/873672.jpg",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
       "name": "ShotC",
       "dimensions": "1280x720",
       "copyright": "Credits to its creator",
@@ -116,6 +154,575 @@
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
       "collections": "catagory1,catagory4,catagory3, catagory2"
-    }
+    },
+    {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+     {
+      "name": "",
+      "author": "",
+      "url": "",
+      "thumbnail": "",
+      "dimensions": "",
+      "copyright": "",
+      "collections": ""
+    },
+    
+    //total 75+
   ]
 }
