@@ -38,21 +38,62 @@
     }
   ],
   "Wallpapers": [
-    {
-      "name": "choice 1",
-      "author": "abdarker",
-      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/29.png",
-      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/thumb/29%20(Custom).png",
-      "dimensions": "1920x1080",
-      "collections": "Featured",
+    
+        {
+      "name": "Minimal 1",
+      "author": "Minimal",
+      "url": "http://papers.co/wallpaper/papers.co-np58-single-leaf-minimal-dark-nature-blue-33-iphone6-wallpaper.jpg",
+      "thumbnail": "http://papers.co/wallpaper/papers.co-np58-single-leaf-minimal-dark-nature-blue-33-iphone6-wallpaper.jpg",
+      "dimensions": "1440x2960",
+      "collections": "Minimalistic",
       "downloadable": true
     },
+    
+        {
+      "name": "Abstruct 1",
+      "author": "Abstruct",
+      "url": "http://papers.co/wallpaper/papers.co-mu37-space-medusa-crawford-galaxy-star-white-bw-33-iphone6-wallpaper.jpg",
+      "thumbnail": "http://papers.co/wallpaper/papers.co-mu37-space-medusa-crawford-galaxy-star-white-bw-33-iphone6-wallpaper.jpg",
+      "dimensions": "1440x2960",
+      "collections": "Abstruct",
+      "downloadable": true
+    },    
+    
+      {
+      "name": "Minimal 8",
+      "author": "Minimal",
+      "url": "http://papers.co/wallpaper/papers.co-ay79-punk-neon-sign-art-minimal-illustration-art-yellow-33-iphone6-wallpaper.jpg",
+      "thumbnail": "http://papers.co/wallpaper/papers.co-ay79-punk-neon-sign-art-minimal-illustration-art-yellow-33-iphone6-wallpaper.jpg",
+      "dimensions": "1440x2960",
+      "collections": "Minimalistic",
+      "downloadable": true
+    },
+       
     {
       "name": "choice 2",
       "author": "abdarker",
       "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/8.jpg",
       "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/thumb/8%20(Custom).jpg",
       "dimensions": "1273x1800",
+      "collections": "Featured",
+      "downloadable": true
+    },
+    
+         {
+      "name": "choice 9",
+      "author": "abdarker",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/ab.png",
+      "thumbnail": "https://raw.githubusercontent.com/anjelix/a6dark3r/master/abschoice/thumb/ab%20(Custom).jpeg",
+      "dimensions": "1920x1080",
+      "collections": "Featured",
+      "downloadable": true
+    },
+       {
+      "name": "choice 12",
+      "author": "abdarker",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/mitch-lensink-1088942-unsplash.png",
+      "thumbnail": "https://raw.githubusercontent.com/anjelix/a6dark3r/master/abschoice/thumb/mitch-lensink-1088942-unsplash%20(Custom).jpeg",
+      "dimensions": "1920x1080",
       "collections": "Featured",
       "downloadable": true
     },
@@ -63,6 +104,15 @@
       "thumbnail": "https://raw.githubusercontent.com/anjelix/a6dark3r/master/abschoice/thumb/Do0peN8VsAIpY3K%20(Custom).jpeg",
       "dimensions": "1920x1080",
       "collections": "Featured",
+      "downloadable": true
+    },
+       {
+      "name": "Unsplash 2 ",
+      "author": "Unsplash",
+      "url": "https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=daba7a5f39e928a362da84ed75634f37&auto=format&fit=crop&w=1080&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=daba7a5f39e928a362da84ed75634f37&auto=format&fit=crop&w=400&q=80",
+      "dimensions": "1440x2960",
+      "collections": "Unsplash",
       "downloadable": true
     },
      {
@@ -83,15 +133,7 @@
       "collections": "Unsplash",
       "downloadable": true
     },
-    {
-      "name": "Unsplash 2 ",
-      "author": "Unsplash",
-      "url": "https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=daba7a5f39e928a362da84ed75634f37&auto=format&fit=crop&w=1080&q=80",
-      "thumbnail": "https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=daba7a5f39e928a362da84ed75634f37&auto=format&fit=crop&w=400&q=80",
-      "dimensions": "1440x2960",
-      "collections": "Unsplash",
-      "downloadable": true
-    },
+ 
        {
       "name": "Unsplash 3",
       "author": "Unsplash",
@@ -157,15 +199,7 @@
       "collections": "Featured",
       "downloadable": true
     },
-     {
-      "name": "choice 9",
-      "author": "abdarker",
-      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/ab.png",
-      "thumbnail": "https://raw.githubusercontent.com/anjelix/a6dark3r/master/abschoice/thumb/ab%20(Custom).jpeg",
-      "dimensions": "1920x1080",
-      "collections": "Featured",
-      "downloadable": true
-    },
+
      {
       "name": "choice 10",
       "author": "abdarker",
@@ -184,15 +218,7 @@
       "collections": "Featured",
       "downloadable": true
     },
-     {
-      "name": "choice 12",
-      "author": "abdarker",
-      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/mitch-lensink-1088942-unsplash.png",
-      "thumbnail": "https://raw.githubusercontent.com/anjelix/a6dark3r/master/abschoice/thumb/mitch-lensink-1088942-unsplash%20(Custom).jpeg",
-      "dimensions": "1920x1080",
-      "collections": "Featured",
-      "downloadable": true
-    },
+  
      {
       "name": "choice 13",
       "author": "abdarker",
@@ -224,17 +250,6 @@
     },
 
         {
-      "name": "Minimal 1",
-      "author": "Minimal",
-      "url": "http://papers.co/wallpaper/papers.co-np58-single-leaf-minimal-dark-nature-blue-33-iphone6-wallpaper.jpg",
-      "thumbnail": "http://papers.co/wallpaper/papers.co-np58-single-leaf-minimal-dark-nature-blue-33-iphone6-wallpaper.jpg",
-      "dimensions": "1440x2960",
-      "collections": "Minimalistic",
-      "downloadable": true
-    },
-
-
-        {
       "name": "Minimal 2",
       "author": "Minimal",
       "url": "http://papers.co/wallpaper/papers.co-az88-drawing-simple-minimal-girl-illustration-art-dark-33-iphone6-wallpaper.jpg",
@@ -261,6 +276,15 @@
       "dimensions": "1920x1080",
       "copyright": "Credit to artist",
       "collections": "pixiv",
+      "downloadable": true
+    },
+        {
+      "name": "choice 1",
+      "author": "abdarker",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/29.png",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/thumb/29%20(Custom).png",
+      "dimensions": "1920x1080",
+      "collections": "Featured",
       "downloadable": true
     },
      {
@@ -343,17 +367,7 @@
       "collections": "pixiv",
       "downloadable": true
     },
-    
-        {
-      "name": "Abstruct 1",
-      "author": "Abstruct",
-      "url": "http://papers.co/wallpaper/papers.co-mu37-space-medusa-crawford-galaxy-star-white-bw-33-iphone6-wallpaper.jpg",
-      "thumbnail": "http://papers.co/wallpaper/papers.co-mu37-space-medusa-crawford-galaxy-star-white-bw-33-iphone6-wallpaper.jpg",
-      "dimensions": "1440x2960",
-      "collections": "Abstruct",
-      "downloadable": true
-    },        
-        {
+     {
       "name": "Abstruct 2",
       "author": "Abstruct",
       "url": "http://papers.co/wallpaper/papers.co-mt81-mountain-bird-cliff-animal-fog-cloud-flare-bw-33-iphone6-wallpaper.jpg",
@@ -547,17 +561,7 @@
       "downloadable": true
     },
 
-        {
-      "name": "Minimal 8",
-      "author": "Minimal",
-      "url": "http://papers.co/wallpaper/papers.co-ay79-punk-neon-sign-art-minimal-illustration-art-yellow-33-iphone6-wallpaper.jpg",
-      "thumbnail": "http://papers.co/wallpaper/papers.co-ay79-punk-neon-sign-art-minimal-illustration-art-yellow-33-iphone6-wallpaper.jpg",
-      "dimensions": "1440x2960",
-      "collections": "Minimalistic",
-      "downloadable": true
-    },
-
-        {
+      {
       "name": "Minimal 9",
       "author": "Minimal",
       "url": "http://papers.co/wallpaper/papers.co-be56-minimal-white-drawing-paint-art-illustration-33-iphone6-wallpaper.jpg",
