@@ -1,14 +1,14 @@
 {
   "Collections": [
-      {
-      "name": "Featured",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
-    },
     {
-      "name": "My Fav",
+      "name": "Featured",
       "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+    },
+     {
+      "name": "Unsplash",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
     },
     {
       "name": "Minimalistic",
@@ -35,11 +35,6 @@
       "name": "Material",
       "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
-    },
-      {
-      "name": "Fairy Tail",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
     }
   ],
   "Wallpapers": [
@@ -49,7 +44,7 @@
       "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/29.png",
       "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/thumb/29%20(Custom).png",
       "dimensions": "1920x1080",
-      "collections": "My Fav",
+      "collections": "Featured",
       "downloadable": true
     },
     {
@@ -58,7 +53,7 @@
       "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/8.jpg",
       "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/thumb/8%20(Custom).jpg",
       "dimensions": "1273x1800",
-      "collections": "My Fav",
+      "collections": "Featured",
       "downloadable": true
     },
      {
@@ -67,7 +62,7 @@
       "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/Do0peN8VsAIpY3K.png",
       "thumbnail": "https://raw.githubusercontent.com/anjelix/a6dark3r/master/abschoice/thumb/Do0peN8VsAIpY3K%20(Custom).jpeg",
       "dimensions": "1920x1080",
-      "collections": "My Fav",
+      "collections": "Featured",
       "downloadable": true
     },
      {
@@ -76,16 +71,98 @@
       "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/Dope_16.jpg",
       "thumbnail": "https://raw.githubusercontent.com/anjelix/a6dark3r/master/abschoice/thumb/Dope_16%20(Custom).jpg",
       "dimensions": "1920x1080",
-      "collections": "My Fav",
+      "collections": "Featured",
       "downloadable": true
     },
+    {
+      "name": "Unsplash 1",
+      "author": "Unsplash",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/will-norbury-1114068-unsplash.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/will-norbury-1114068-unsplash.jpg",
+      "dimensions": "1440x2960",
+      "collections": "Unsplash",
+      "downloadable": true
+    },
+    {
+      "name": "Unsplash ",
+      "author": "Unsplash",
+      "url": "https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=daba7a5f39e928a362da84ed75634f37&auto=format&fit=crop&w=1080&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=daba7a5f39e928a362da84ed75634f37&auto=format&fit=crop&w=400&q=80",
+      "dimensions": "1440x2960",
+      "collections": "Unsplash",
+      "downloadable": true
+    },
+       {
+      "name": "Unsplash ",
+      "author": "Unsplash",
+      "url": "https://images.unsplash.com/photo-1505356822725-08ad25f3ffe4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ab269619b7d2a86beaa51089b3c31407&auto=format&fit=crop&w=1080&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1505356822725-08ad25f3ffe4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ab269619b7d2a86beaa51089b3c31407&auto=format&fit=crop&w=350&q=80",
+      "dimensions": "1440x2960",
+      "collections": "Unsplash",
+      "downloadable": true
+    },
+       {
+      "name": "Unsplash ",
+      "author": "Unsplash",
+      "url": "https://images.unsplash.com/photo-1511042326720-1c7b714f1936?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=856ba9a38daef1f2a3a7464e310a3cde&auto=format&fit=crop&w=1080&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1511042326720-1c7b714f1936?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=856ba9a38daef1f2a3a7464e310a3cde&auto=format&fit=crop&w=350&q=80",
+      "dimensions": "1440x2960",
+      "collections": "Unsplash",
+      "downloadable": true
+    },
+       {
+      "name": "Unsplash ",
+      "author": "Unsplash",
+      "url": "https://images.unsplash.com/photo-1531278329486-539bf3bd6d5e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c22fab4464ff80aa905e5abb9f367731&auto=format&fit=crop&w=1080&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1531278329486-539bf3bd6d5e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c22fab4464ff80aa905e5abb9f367731&auto=format&fit=crop&w=1080&q=80",
+      "dimensions": "1440x2960",
+      "collections": "Unsplash",
+      "downloadable": true
+    },
+       {
+      "name": "Unsplash ",
+      "author": "Unsplash",
+      "url": "https://images.unsplash.com/photo-1532555985931-0cd8773a663c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=54ee1305cbb61a72e46a14f9d192d995&auto=format&fit=crop&w=1920&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1532555985931-0cd8773a663c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=54ee1305cbb61a72e46a14f9d192d995&auto=format&fit=crop&w=1920&q=80",
+      "dimensions": "1440x2960",
+      "collections": "Unsplash",
+      "downloadable": true
+    },
+       {
+      "name": "Unsplash ",
+      "author": "Unsplash",
+      "url": "https://images.unsplash.com/photo-1516900557549-41557d405adf?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=37ce8d2df7af4e098e263febe2868398&auto=format&fit=crop&w=1900&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1516900557549-41557d405adf?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=37ce8d2df7af4e098e263febe2868398&auto=format&fit=crop&w=1900&q=80",
+      "dimensions": "1440x2960",
+      "collections": "Unsplash",
+      "downloadable": true
+    },
+         {
+      "name": "Unsplash ",
+      "author": "Unsplash",
+      "url": "https://images.unsplash.com/photo-1518182170546-07661fd94144?ixlib=rb-0.3.5&s=553a08aec4f199634a3a50eb2a8411bf&auto=format&fit=crop&w=1900&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1518182170546-07661fd94144?ixlib=rb-0.3.5&s=553a08aec4f199634a3a50eb2a8411bf&auto=format&fit=crop&w=634&q=80",
+      "dimensions": "1440x2960",
+      "collections": "Unsplash",
+      "downloadable": true
+    },
+         {
+      "name": "Unsplash ",
+      "author": "Unsplash",
+      "url": "https://images.unsplash.com/photo-1534085838602-9624ac7ab9e5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=39fb9f2fe78946ecc46510c8a7cd4366&auto=format&fit=crop&w=1900&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1534085838602-9624ac7ab9e5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=39fb9f2fe78946ecc46510c8a7cd4366&auto=format&fit=crop&w=750&q=80",
+      "dimensions": "1440x2960",
+      "collections": "Unsplash",
+      "downloadable": true
+    },
+         
      {
       "name": "choice 7",
       "author": "abdarker",
       "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/IMG_20180920_170732.jpg",
       "thumbnail": "https://raw.githubusercontent.com/anjelix/a6dark3r/master/abschoice/thumb/IMG_20180920_170732%20(Custom).jpg",
       "dimensions": "1920x1080",
-      "collections": "My Fav",
+      "collections": "Featured",
       "downloadable": true
     },
      {
@@ -94,7 +171,7 @@
       "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/_Ernesto_Alonso_2_2.0.jpg",
       "thumbnail": "https://raw.githubusercontent.com/anjelix/a6dark3r/master/abschoice/thumb/_Ernesto_Alonso_2_2.0%20(Custom).jpg",
       "dimensions": "1920x1080",
-      "collections": "My Fav",
+      "collections": "Featured",
       "downloadable": true
     },
      {
@@ -103,7 +180,7 @@
       "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/ab.png",
       "thumbnail": "https://raw.githubusercontent.com/anjelix/a6dark3r/master/abschoice/thumb/ab%20(Custom).jpeg",
       "dimensions": "1920x1080",
-      "collections": "My Fav",
+      "collections": "Featured",
       "downloadable": true
     },
      {
@@ -112,7 +189,7 @@
       "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/fachy-marin-601292-unsplash.png",
       "thumbnail": "https://raw.githubusercontent.com/anjelix/a6dark3r/master/abschoice/thumb/fachy-marin-601292-unsplash%20(Custom).jpeg",
       "dimensions": "1920x1080",
-      "collections": "My Fav",
+      "collections": "Featured",
       "downloadable": true
     },
      {
@@ -121,7 +198,7 @@
       "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/matteo-catanese-583448-unsplash.png",
       "thumbnail": "https://raw.githubusercontent.com/anjelix/a6dark3r/master/abschoice/thumb/matteo-catanese-583448-unsplash%20(Custom).jpeg",
       "dimensions": "1920x1080",
-      "collections": "My Fav",
+      "collections": "Featured",
       "downloadable": true
     },
      {
@@ -130,7 +207,7 @@
       "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/mitch-lensink-1088942-unsplash.png",
       "thumbnail": "https://raw.githubusercontent.com/anjelix/a6dark3r/master/abschoice/thumb/mitch-lensink-1088942-unsplash%20(Custom).jpeg",
       "dimensions": "1920x1080",
-      "collections": "My Fav",
+      "collections": "Featured",
       "downloadable": true
     },
      {
@@ -139,7 +216,7 @@
       "url": "https://github.com/a6dark3r/a6dark3r/blob/master/abschoice/sebastiaan-stam-1088745-unsplash.png",
       "thumbnail": "https://raw.githubusercontent.com/anjelix/a6dark3r/master/abschoice/thumb/sebastiaan-stam-1088745-unsplash%20(Custom).jpeg",
       "dimensions": "1920x1080",
-      "collections": "My Fav",
+      "collections": "Featured",
       "downloadable": true
     },
     {
