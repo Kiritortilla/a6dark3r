@@ -78,7 +78,16 @@
       "collections": "Featured",
       "downloadable": true
     },
-    
+      {
+      "name": "Naruto 9",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/XqIy7tW.bak.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/Thumbs/XqIy7tW.jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
          {
       "name": "choice 9",
       "author": "abdarker",
@@ -86,6 +95,16 @@
       "thumbnail": "https://raw.githubusercontent.com/anjelix/a6dark3r/master/abschoice/thumb/ab%20(Custom).jpeg",
       "dimensions": "1920x1080",
       "collections": "Featured",
+      "downloadable": true
+    },
+      {
+      "name": "Naruto 8",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/S1TB0BR.bak.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/Thumbs/S1TB0BR.jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
       "downloadable": true
     },
        {
@@ -113,6 +132,16 @@
       "thumbnail": "https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=daba7a5f39e928a362da84ed75634f37&auto=format&fit=crop&w=400&q=80",
       "dimensions": "1440x2960",
       "collections": "Unsplash",
+      "downloadable": true
+    },
+      {
+      "name": "Naruto 16",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/LBATsSo.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/Thumbs/LBATsSo%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
       "downloadable": true
     },
      {
@@ -203,26 +232,8 @@
       "collections": "Minimalistic,Anime,Naruto",
       "downloadable": true
     },
-  {
-      "name": "Naruto 8",
-      "author": "Minimal",
-      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/S1TB0BR.bak.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/Thumbs/S1TB0BR.jpg",
-      "dimensions": "1440x2960",
-      "copyright": "Credit to editor",
-      "collections": "Minimalistic,Anime,Naruto",
-      "downloadable": true
-    },
-  {
-      "name": "Naruto 9",
-      "author": "Minimal",
-      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/XqIy7tW.bak.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/Thumbs/XqIy7tW.jpg",
-      "dimensions": "1440x2960",
-      "copyright": "Credit to editor",
-      "collections": "Minimalistic,Anime,Naruto",
-      "downloadable": true
-    },
+
+
   {
       "name": "Naruto 10",
       "author": "Minimal",
@@ -466,16 +477,7 @@
       "collections": "Minimalistic,Anime,Naruto",
       "downloadable": true
     },
-  {
-      "name": "Naruto 16",
-      "author": "Minimal",
-      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/LBATsSo.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/Thumbs/LBATsSo%20(Phone).jpg",
-      "dimensions": "1440x2960",
-      "copyright": "Credit to editor",
-      "collections": "Minimalistic,Anime,Naruto",
-      "downloadable": true
-    },
+
   {
       "name": "Naruto 17",
       "author": "Minimal",
