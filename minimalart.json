@@ -38,62 +38,21 @@
     }
   ],
   "Wallpapers": [
-    
-        {
-      "name": "Minimal 1",
-      "author": "Minimal",
-      "url": "http://papers.co/wallpaper/papers.co-np58-single-leaf-minimal-dark-nature-blue-33-iphone6-wallpaper.jpg",
-      "thumbnail": "http://papers.co/wallpaper/papers.co-np58-single-leaf-minimal-dark-nature-blue-33-iphone6-wallpaper.jpg",
-      "dimensions": "1440x2960",
-      "collections": "Minimalistic",
+    {
+      "name": "choice 1",
+      "author": "abdarker",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/29.png",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/thumb/29%20(Custom).png",
+      "dimensions": "1920x1080",
+      "collections": "Featured",
       "downloadable": true
     },
-    
-        {
-      "name": "Abstruct 1",
-      "author": "Abstruct",
-      "url": "http://papers.co/wallpaper/papers.co-mu37-space-medusa-crawford-galaxy-star-white-bw-33-iphone6-wallpaper.jpg",
-      "thumbnail": "http://papers.co/wallpaper/papers.co-mu37-space-medusa-crawford-galaxy-star-white-bw-33-iphone6-wallpaper.jpg",
-      "dimensions": "1440x2960",
-      "collections": "Abstruct",
-      "downloadable": true
-    },    
-    
-      {
-      "name": "Minimal 8",
-      "author": "Minimal",
-      "url": "http://papers.co/wallpaper/papers.co-ay79-punk-neon-sign-art-minimal-illustration-art-yellow-33-iphone6-wallpaper.jpg",
-      "thumbnail": "http://papers.co/wallpaper/papers.co-ay79-punk-neon-sign-art-minimal-illustration-art-yellow-33-iphone6-wallpaper.jpg",
-      "dimensions": "1440x2960",
-      "collections": "Minimalistic",
-      "downloadable": true
-    },
-       
     {
       "name": "choice 2",
       "author": "abdarker",
       "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/8.jpg",
       "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/thumb/8%20(Custom).jpg",
       "dimensions": "1273x1800",
-      "collections": "Featured",
-      "downloadable": true
-    },
-    
-         {
-      "name": "choice 9",
-      "author": "abdarker",
-      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/ab.png",
-      "thumbnail": "https://raw.githubusercontent.com/anjelix/a6dark3r/master/abschoice/thumb/ab%20(Custom).jpeg",
-      "dimensions": "1920x1080",
-      "collections": "Featured",
-      "downloadable": true
-    },
-       {
-      "name": "choice 12",
-      "author": "abdarker",
-      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/mitch-lensink-1088942-unsplash.png",
-      "thumbnail": "https://raw.githubusercontent.com/anjelix/a6dark3r/master/abschoice/thumb/mitch-lensink-1088942-unsplash%20(Custom).jpeg",
-      "dimensions": "1920x1080",
       "collections": "Featured",
       "downloadable": true
     },
@@ -104,15 +63,6 @@
       "thumbnail": "https://raw.githubusercontent.com/anjelix/a6dark3r/master/abschoice/thumb/Do0peN8VsAIpY3K%20(Custom).jpeg",
       "dimensions": "1920x1080",
       "collections": "Featured",
-      "downloadable": true
-    },
-       {
-      "name": "Unsplash 2 ",
-      "author": "Unsplash",
-      "url": "https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=daba7a5f39e928a362da84ed75634f37&auto=format&fit=crop&w=1080&q=80",
-      "thumbnail": "https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=daba7a5f39e928a362da84ed75634f37&auto=format&fit=crop&w=400&q=80",
-      "dimensions": "1440x2960",
-      "collections": "Unsplash",
       "downloadable": true
     },
      {
@@ -133,7 +83,15 @@
       "collections": "Unsplash",
       "downloadable": true
     },
- 
+    {
+      "name": "Unsplash 2 ",
+      "author": "Unsplash",
+      "url": "https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=daba7a5f39e928a362da84ed75634f37&auto=format&fit=crop&w=1080&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=daba7a5f39e928a362da84ed75634f37&auto=format&fit=crop&w=400&q=80",
+      "dimensions": "1440x2960",
+      "collections": "Unsplash",
+      "downloadable": true
+    },
        {
       "name": "Unsplash 3",
       "author": "Unsplash",
@@ -160,6 +118,106 @@
       "thumbnail": "https://images.unsplash.com/photo-1518182170546-07661fd94144?ixlib=rb-0.3.5&s=553a08aec4f199634a3a50eb2a8411bf&auto=format&fit=crop&w=634&q=80",
       "dimensions": "1440x2960",
       "collections": "Unsplash",
+      "downloadable": true
+    },
+     {
+      "name": "Naruto 1",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/4gpIfOd.bak.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/Thumbs/4gpIfOd.jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 2",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/4vEqQLr.bak.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/Thumbs/4vEqQLr.jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 3",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/6yBr4vO.bak.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/Thumbs/6yBr4vO.jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 4",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/8ypTHat.bak.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/Thumbs/8ypTHat.jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 5",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/MN9rArA.bak.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/Thumbs/MN9rArA.jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 6",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/NFAgyrR.bak.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/Thumbs/NFAgyrR.jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 7",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/NyrO7lJ.bak.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/Thumbs/NyrO7lJ.jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 8",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/S1TB0BR.bak.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/Thumbs/S1TB0BR.jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 9",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/XqIy7tW.bak.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/Thumbs/XqIy7tW.jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 10",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/Xy3P17m.bak.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/Thumbs/Xy3P17m.jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
       "downloadable": true
     },
          {
@@ -199,7 +257,15 @@
       "collections": "Featured",
       "downloadable": true
     },
-
+     {
+      "name": "choice 9",
+      "author": "abdarker",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/ab.png",
+      "thumbnail": "https://raw.githubusercontent.com/anjelix/a6dark3r/master/abschoice/thumb/ab%20(Custom).jpeg",
+      "dimensions": "1920x1080",
+      "collections": "Featured",
+      "downloadable": true
+    },
      {
       "name": "choice 10",
       "author": "abdarker",
@@ -218,7 +284,15 @@
       "collections": "Featured",
       "downloadable": true
     },
-  
+     {
+      "name": "choice 12",
+      "author": "abdarker",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/mitch-lensink-1088942-unsplash.png",
+      "thumbnail": "https://raw.githubusercontent.com/anjelix/a6dark3r/master/abschoice/thumb/mitch-lensink-1088942-unsplash%20(Custom).jpeg",
+      "dimensions": "1920x1080",
+      "collections": "Featured",
+      "downloadable": true
+    },
      {
       "name": "choice 13",
       "author": "abdarker",
@@ -250,6 +324,17 @@
     },
 
         {
+      "name": "Minimal 1",
+      "author": "Minimal",
+      "url": "http://papers.co/wallpaper/papers.co-np58-single-leaf-minimal-dark-nature-blue-33-iphone6-wallpaper.jpg",
+      "thumbnail": "http://papers.co/wallpaper/papers.co-np58-single-leaf-minimal-dark-nature-blue-33-iphone6-wallpaper.jpg",
+      "dimensions": "1440x2960",
+      "collections": "Minimalistic",
+      "downloadable": true
+    },
+
+
+        {
       "name": "Minimal 2",
       "author": "Minimal",
       "url": "http://papers.co/wallpaper/papers.co-az88-drawing-simple-minimal-girl-illustration-art-dark-33-iphone6-wallpaper.jpg",
@@ -276,15 +361,6 @@
       "dimensions": "1920x1080",
       "copyright": "Credit to artist",
       "collections": "pixiv",
-      "downloadable": true
-    },
-        {
-      "name": "choice 1",
-      "author": "abdarker",
-      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/29.png",
-      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/abschoice/thumb/29%20(Custom).png",
-      "dimensions": "1920x1080",
-      "collections": "Featured",
       "downloadable": true
     },
      {
@@ -315,6 +391,156 @@
       "dimensions": "1920x1080",
       "copyright": "Credit to artist",
       "collections": "pixiv",
+      "downloadable": true
+    },
+    {
+      "name": "Naruto 11",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/bphidIo.bak.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/Thumbs/bphidIo.jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 12",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/dkkkslsjs.bak.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/Thumbs/dkkkslsjs.jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 13",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/elkvqxa.bak.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/Thumbs/elkvqxa.jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 14",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/jvjz8Q5.bak.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/Thumbs/jvjz8Q5.jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 15",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/L4SzcFw.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/Thumbs/L4SzcFw%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 16",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/LBATsSo.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/Thumbs/LBATsSo%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 17",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/MA_Series_06%20%20(9).png",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/Thumbs/MA_Series_06%20%20(9)%20(Phone).png",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 18",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/MA_Series_1.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/Thumbs/MA_Series_1%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 19",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/MA_Series_2_01.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/Thumbs/MA_Series_2_01%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 20",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/MA_Series_2_02.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/Thumbs/MA_Series_2_02%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 21",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/MA_Series_2_04.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/Thumbs/MA_Series_2_04%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 22",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/MA_Series_2_07.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/Thumbs/MA_Series_2_07%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 23",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/Md5KmIM.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/Thumbs/Md5KmIM%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 24",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/Minimalist_Anime_Series_08%20%20(14).png",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/Thumbs/Minimalist_Anime_Series_08%20%20(14)%20(Phone).png",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 25",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/Minimalist_Anime_Series_08%20%20(9).png",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/Thumbs/Minimalist_Anime_Series_08%20%20(9)%20(Phone).png",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
       "downloadable": true
     },
      {
@@ -367,7 +593,17 @@
       "collections": "pixiv",
       "downloadable": true
     },
-     {
+    
+        {
+      "name": "Abstruct 1",
+      "author": "Abstruct",
+      "url": "http://papers.co/wallpaper/papers.co-mu37-space-medusa-crawford-galaxy-star-white-bw-33-iphone6-wallpaper.jpg",
+      "thumbnail": "http://papers.co/wallpaper/papers.co-mu37-space-medusa-crawford-galaxy-star-white-bw-33-iphone6-wallpaper.jpg",
+      "dimensions": "1440x2960",
+      "collections": "Abstruct",
+      "downloadable": true
+    },        
+        {
       "name": "Abstruct 2",
       "author": "Abstruct",
       "url": "http://papers.co/wallpaper/papers.co-mt81-mountain-bird-cliff-animal-fog-cloud-flare-bw-33-iphone6-wallpaper.jpg",
@@ -431,6 +667,157 @@
       "dimensions": "1920x1080",
       "copyright": "Credit to artist",
       "collections": "pixiv",
+      "downloadable": true
+    },
+
+  {
+      "name": "Naruto 26",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/Minimalist_Anime_Series_09%20%20(10).png",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/Thumbs/Minimalist_Anime_Series_09%20%20(10)%20(Phone).png",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 27",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/Minimalist_Anime_Series_09%20%20(12).png",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/Thumbs/Minimalist_Anime_Series_09%20%20(12)%20(Phone).png",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 28",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/Minimalist_Anime_Series_09%20%20(14).png",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/Thumbs/Minimalist_Anime_Series_09%20%20(14)%20(Phone).png",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 29",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/UULleQv.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/Thumbs/UULleQv%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 30",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/m6Q1KrQ.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%202/Thumbs/m6Q1KrQ%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 31",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/17.png",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/Thumbs/17%20(Phone).png",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 32",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/MA_Series_1-1.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/Thumbs/MA_Series_1-1%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 33",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/MA_Series_1-10.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/Thumbs/MA_Series_1-10%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 34",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/MA_Series_1-16.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/Thumbs/MA_Series_1-16%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 35",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/MA_Series_1-2.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/Thumbs/MA_Series_1-2%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 36",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/MA_Series_1-3.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/Thumbs/MA_Series_1-3%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 37",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/MA_Series_1-7.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/Thumbs/MA_Series_1-7%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 38",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/MA_Series_1-9.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/Thumbs/MA_Series_1-9%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 39",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/MA_Series_2_03.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/Thumbs/MA_Series_2_03%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 40",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/MA_Series_2_05.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/Thumbs/MA_Series_2_05%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
       "downloadable": true
     },
      {
@@ -561,7 +948,17 @@
       "downloadable": true
     },
 
-      {
+        {
+      "name": "Minimal 8",
+      "author": "Minimal",
+      "url": "http://papers.co/wallpaper/papers.co-ay79-punk-neon-sign-art-minimal-illustration-art-yellow-33-iphone6-wallpaper.jpg",
+      "thumbnail": "http://papers.co/wallpaper/papers.co-ay79-punk-neon-sign-art-minimal-illustration-art-yellow-33-iphone6-wallpaper.jpg",
+      "dimensions": "1440x2960",
+      "collections": "Minimalistic",
+      "downloadable": true
+    },
+
+        {
       "name": "Minimal 9",
       "author": "Minimal",
       "url": "http://papers.co/wallpaper/papers.co-be56-minimal-white-drawing-paint-art-illustration-33-iphone6-wallpaper.jpg",
@@ -639,6 +1036,218 @@
       "dimensions": "1920x1080",
       "copyright": "Credit to artist",
       "collections": "pixiv",
+      "downloadable": true
+    },
+
+  
+  {
+      "name": "Naruto 41",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/MA_Series_2_06.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/Thumbs/MA_Series_2_06%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 42",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/MA_Series_2_09.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/Thumbs/MA_Series_2_09%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 43",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/MA_Series_2_16.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/Thumbs/MA_Series_2_16%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 44",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/Minimalist_Anime_Series_09%20%20(1).png",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/Thumbs/Minimalist_Anime_Series_09%20%20(1)%20(Phone).png",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 45",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/Minimalist_Anime_Series_09%20%20(13).png",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/Thumbs/Minimalist_Anime_Series_09%20%20(13)%20(Phone).png",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 46",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/Minimalist_Anime_Series_09%20%20(15).png",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%203/Thumbs/Minimalist_Anime_Series_09%20%20(15)%20(Phone).png",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 47",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/MA_Series_1-11.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/Thumbs/MA_Series_1-11%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 48",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/MA_Series_1-12.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/Thumbs/MA_Series_1-12%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 49",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/MA_Series_1-13.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/Thumbs/MA_Series_1-13%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 50",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/MA_Series_1-14.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/Thumbs/MA_Series_1-14%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 51",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/MA_Series_1-4.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/Thumbs/MA_Series_1-4%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 52",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/MA_Series_1-6.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/Thumbs/MA_Series_1-6%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 53",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/MA_Series_2_08.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/Thumbs/MA_Series_2_08%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 54",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/MA_Series_2_10.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/Thumbs/MA_Series_2_10%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 55",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/MA_Series_2_11.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/Thumbs/MA_Series_2_11%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 56",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/MA_Series_2_12.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/Thumbs/MA_Series_2_12%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 57",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/MA_Series_2_13.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/Thumbs/MA_Series_2_13%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 58",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/MA_Series_2_14.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/Thumbs/MA_Series_2_14%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 59",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/MA_Series_2_15.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/Thumbs/MA_Series_2_15%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 60",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/Minimalist_Anime_Series_10%20(11).png",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/Thumbs/Minimalist_Anime_Series_10%20(11)%20(Phone).png",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
+      "downloadable": true
+    },
+  {
+      "name": "Naruto 61",
+      "author": "Minimal",
+      "url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/ZyALkZt.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%204/Thumbs/ZyALkZt%20(Phone).jpg",
+      "dimensions": "1440x2960",
+      "copyright": "Credit to editor",
+      "collections": "Minimalistic,Anime,Naruto",
       "downloadable": true
     },
 
