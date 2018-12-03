@@ -5,6 +5,11 @@
       "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
     },
+	   {
+      "name": "Anime",
+      "preview_url": "https://raw.githubusercontent.com/anjelix/a6dark3r/master/pixiv/873672.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/anjelix/a6dark3r/master/pixiv/873672.jpg"
+    },
      {
       "name": "Unsplash",
       "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
@@ -15,27 +20,28 @@
       "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
     },
+	   {
+      "name": "Material",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+    },
+	   {
+      "name": "Naruto",
+      "preview_url": "https://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/XqIy7tW.bak.jpg",
+      "preview_thumbnail_url": "hhttps://raw.githubusercontent.com/a6dark3r/a6dark3r/master/Naruto/Part%201/XqIy7tW.bak.jpg"
+    },
     {
       "name": "Abstruct",
       "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
-    },
-    {
-      "name": "Anime",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
     },
 
       {
       "name": "Pixiv",
       "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
-    },
-      {
-      "name": "Material",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
     }
+     
   ],
   "Wallpapers": [
     
